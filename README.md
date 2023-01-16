@@ -1,7 +1,7 @@
 # ICCE_ASIA_Tracker
 
 # Requirements
-
+* python(>3.8)
 * pytorch(>1.13)
 * cv2
 * yacs

@@ -1,4 +1,6 @@
 # ICCE_ASIA_Tracker
+* Paper: [Aerial Visual Tracking using Multi-level Temporal Contexts Information](https://ieeexplore.ieee.org/document/9954769)
+* Hasil Park; Sangbeom Jeon; Sungwook Jang; Hoseok Jang; Taeok Kim; Joonki Paik
 
 # Requirements
 * python(>3.8)
